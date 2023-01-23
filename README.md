@@ -1,6 +1,6 @@
 # node-weather-app
 
-# Node Js Application that fetches current temperature based on location entered
+- Node Js Application that fetches current temperature based on location entered
 
 # Steps to Install
 
@@ -8,4 +8,6 @@
 - npm install
 - node src/app.js
 
-# Application will be started on local port.
+#
+
+- Application will be started on local port.
