@@ -2,7 +2,7 @@
 
 - Node Js Application that fetches current temperature based on location entered
 
-- ![Screenshot](weather.png)
+- ![Screenshot](Weather.png)
 
 # Steps to Install
 
