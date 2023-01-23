@@ -2,6 +2,8 @@
 
 - Node Js Application that fetches current temperature based on location entered
 
+- image.png
+
 # Steps to Install
 
 - Clone the application
