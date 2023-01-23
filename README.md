@@ -2,7 +2,7 @@
 
 - Node Js Application that fetches current temperature based on location entered
 
-- You can check demo at [Weather App](https://node-weather-app-ksmc.onrender.com/) OR [Weather App](https://node-weather-app-ksmc.onrender.com/)
+- You can check demo at [Weather App](https://busy-tan-turkey-robe.cyclic.app/) OR [Weather App](https://node-weather-app-ksmc.onrender.com/)
 
 # Steps to Install
 
