@@ -7,7 +7,4 @@
 - Clone the application
 - npm install
 - node src/app.js
-
-#
-
 - Application will be started on local port.
